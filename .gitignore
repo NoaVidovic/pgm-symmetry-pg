@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+
+*.png
+stage_*.csv
+
+text.txt
